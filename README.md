@@ -1,6 +1,6 @@
 # Cybersecurity Analyst | Penetration Testing Specialist
 
-<img src="https://www.searchenginejournal.com/wp-content/uploads/2023/05/google-ads-playbook-6477996d23bb1-sej.png" width="750px" alt="gif"/> <!-- Replace with your actual header image -->
+<img src="https://itknowledgezone.com/wp-content/uploads/2023/05/De-Risk-Your-Technology-Infrastructure-with-These-Cybersecurity-Practices.jpg" width="800px" alt="gif"/> <!-- Replace with your actual header image -->
 
 ## About Me
 
@@ -25,22 +25,22 @@ I am TARIQ ABATOURAB. Aspiring Cyber Security Analyst (Proficient at Penetration
   - <img src="https://d8p1x3h4xd5gq.cloudfront.net/59822132ca753d719145cc4c/public/64da57f536d4890edd7411eb.png" width="200px" alt="gif"/>  [Chronicle](https://chronicle.security/)
 
 - **Security Testing:**
-  - <img src="" width="750px" alt="gif"/>  [OWASP ZAP](https://www.zaproxy.org/)
-  - <img src="" width="750px" alt="gif"/> [Burp Suite](https://portswigger.net/burp)
-  - <img src="" width="750px" alt="gif"/>  [OpenVAS](https://www.openvas.org/)
-  - !<img src="" width="750px" alt="gif"/>  [Nessus](https://www.tenable.com/products/nessus)
+  - <img src="https://www.angleritech.com/wp-content/uploads/2020/09/owasp-zap.png" width="200px" alt="gif"/>  [OWASP ZAP](https://www.zaproxy.org/)
+  - <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*q1mXbZtEGYdsgzAuvhx29A.png" width="200px" alt="gif"/> [Burp Suite](https://portswigger.net/burp)
+  - <img src="https://community.greenbone.net/uploads/default/original/1X/a1e84733df6d768379666c75f7bfcf38e43c7132.png" width="200px" alt="gif"/>  [OpenVAS](https://www.openvas.org/)
+  - !<img src="https://i.imgur.com/Xrfr2ME.png" width="200px" alt="gif"/>  [Nessus](https://www.tenable.com/products/nessus)
 
 - **Penetration Testing:**
-  - <img src="" width="750px" alt="gif"/>  [Metasploit](https://www.metasploit.com/)
-  - <img src="" width="750px" alt="gif"/>  [ScouteSuite](https://scoutesuite.com/)
+  - <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*waFDh88WH0YeIK3xMP6TjA.png" width="200px" alt="gif"/>  [Metasploit](https://www.metasploit.com/)
+  - <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*_DODhZLU12xTUVMEg886AQ.png" width="200px" alt="gif"/>  [ScouteSuite](https://scoutesuite.com/)
 
 - **Forensics:**
-  - <img src="" width="750px" alt="gif"/>  [Autopsy](https://www.sleuthkit.org/autopsy/)
+  - <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qWdfw-0joQ8HUkjNC9_ttw.jpeg" width="200px" alt="gif"/>  [Autopsy](https://www.sleuthkit.org/autopsy/)
 
 ## Programming Languages
 
-- <img src="" width="750px" alt="gif"/>  [Python](https://www.python.org/)
-- <img src="" width="750px" alt="gif"/> [SQL](https://www.sql.org/)
+- <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?resize=800%2C800&ssl=1" width="200px" alt="gif"/>  [Python](https://www.python.org/)
+- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rOzoncElqdqIAThTj8Idgg.png" width="200px" alt="gif"/> [SQL](https://www.sql.org/)
 
 
 ## Contact Information
@@ -54,4 +54,4 @@ Thank you for visiting my GitHub profile!
 
 ---
 
-![Footer Image](https://via.placeholder.com/1200x200?text=Cybersecurity+Footer) <!-- Replace with your actual footer image -->
+<img src="https://itknowledgezone.com/wp-content/uploads/2023/05/De-Risk-Your-Technology-Infrastructure-with-These-Cybersecurity-Practices.jpg" width="800px" alt="gif"/> <!-- Replace with your actual footer image -->
